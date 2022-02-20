@@ -2,7 +2,10 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java基础/课件笔记源码资料/新建文件夹/4_代码/第2部分：Java高级编程/JavaSenior/day01/src/atguigu/exer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java基础/课件笔记源码资料/新建文件夹/4_代码/第2部分：Java高级编程/JavaSenior/day01/src/atguigu/java" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
